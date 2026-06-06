@@ -1,0 +1,59 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+*.tsbuildinfo
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env
+.env*.local
+.env.local
+
+# vercel
+.vercel
+
+# typescript
+next-env.d.ts
+
+# turbo
+.turbo
+
+# supabase
+supabase/.temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PRD
+PRD1.0.md
+PRD2.0.md
+Request.md
